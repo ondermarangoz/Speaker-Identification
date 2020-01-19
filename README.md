@@ -1,5 +1,5 @@
 # Speaker-Identification
-I implemented this repository from [Spoken Speaker Identification based on Gaussian Mixture Models](https://appliedmachinelearning.blog/2017/11/14/spoken-speaker-identification-based-on-gaussian-mixture-models-python-implementation/)\n
+I implemented this repository from [Spoken Speaker Identification based on Gaussian Mixture Models](https://appliedmachinelearning.blog/2017/11/14/spoken-speaker-identification-based-on-gaussian-mixture-models-python-implementation/). 
 It works on Python 2.7(It is not guaranteed on Python3+)
 
 ### Data-Set
